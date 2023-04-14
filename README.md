@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hai Selamat Datang - Faishal Rizal 👋
-<h1 align='center'>
-  Hello GAESSS
-</h1>
-
-## HAI !!!
 
 # 🚀 Languages and Tools:
 
