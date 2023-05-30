@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 📊 My Github Statistics
 
 <a href="https://github.com/faishal2727">
-<img alt="FaishalRZ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhfaishalrizal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img alt="FaishalRZ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
 <a href="https://github.com/faishal2727">
