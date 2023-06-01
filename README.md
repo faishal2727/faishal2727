@@ -3,10 +3,6 @@
 <!--
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-<img  alt="Coding" width="300" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://assets2.lottiefiles.com/packages/lf20_xeqirqoe.json)">
-</p>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
