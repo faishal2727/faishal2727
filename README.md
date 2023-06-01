@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--
-<p align=center>
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</p>
-![Error](https://raw.githubusercontent.com/faishal2727/faishal2727/master/lottie.gif)
 
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/lottie.gif">, I'm Maulana</h1>
+<h4 align="center">a student</h4>
 
 Here are some ideas to get you started:
 
