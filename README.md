@@ -3,7 +3,7 @@
 <!--
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Error](https://raw.githubusercontent.com/faishal2727/faishal2727/lottie.gif)
+![Error](https://raw.githubusercontent.com/faishal2727/faishal2727/master/lottie.gif)
 
 
 Here are some ideas to get you started:
