@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/faishal2727/faishal2727/blob/main/lottie.gif">, Hallo Gaes</h1>
-<h4 align="center">a student</h4>
+
 
 <!--
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/faishal2727/faishal2727/blob/main/lottie.gif">, Hallo Gaes</h1>
+<h4 align="center">a student</h4>
 
 ## Hai Selamat Datang - Faishal Rizal 👋
 
