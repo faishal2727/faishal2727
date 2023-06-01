@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align=center>
-## Hai Selamat Datang - Still Progress 👋
+Hai Selamat Datang - Still Progress 👋
 </h3>
 
 # 🚀 Languages and Tools AND 📊 My Github Statistics
