@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
   <img  src="ttps://github.com/faishal2727/faishal2727/blob/main/lottie.gif"
        alt="snake" /></a>
 </div>
