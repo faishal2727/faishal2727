@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <!--
+<p align=center>
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</p>
 ![Error](https://raw.githubusercontent.com/faishal2727/faishal2727/master/lottie.gif)
 
 
