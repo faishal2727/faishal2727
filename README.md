@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-
-**faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started:
 
@@ -21,9 +21,11 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
-## Hai Selamat Datang - Faishal Rizal 👋
+<h3 align=center>
+## Hai Selamat Datang - Still Progress 👋
+</h3>
 
-# 🚀 Languages and Tools AND ## 📊 My Github Statistics
+# 🚀 Languages and Tools AND 📊 My Github Statistics
 
 <p align='center'>
 <a href="https://github.com/faishal2727">
