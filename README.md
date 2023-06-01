@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/faishal2727">
 <img alt="faishalRZ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishal2727&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+ <a href="https://github.com/faishal2727">
+<img alt="FaishalRZ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
 </p>
 
 <p align='center'>
@@ -36,9 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-<a href="https://github.com/faishal2727">
-<img alt="FaishalRZ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
+
 </p>
 
 <p align='center'>
