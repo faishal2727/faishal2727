@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/faishal2727/faishal2727/blob/main/lottie.gif">, Hallo Gaes</h1>
-<h4 align="center">a student</h4>
+  <img  src="ttps://github.com/faishal2727/faishal2727/blob/main/lottie.gif"
+       alt="snake" /></a>
+</div>
 
 ## Hai Selamat Datang - Faishal Rizal 👋
 
