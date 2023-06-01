@@ -2,7 +2,8 @@
 
 <!--
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Dino](https://raw.githubusercontent.com/faishal2727/faishal2727/lottie.gif)
+
+![Error](https://raw.githubusercontent.com/faishal2727/faishal2727/lottie.gif)
 
 
 Here are some ideas to get you started:
@@ -29,10 +30,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/faishal2727">
 <img alt="FaishalRZ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<a href="https://github.com/faishal2727">
-<img alt="faishalRZ Github Stats" src="https://github-readme-stats.vercel.app/api?username=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <p align='center'>
