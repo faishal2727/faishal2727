@@ -19,15 +19,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align='center'>
 ## Hai Selamat Datang - Faishal Rizal 👋
+</p>
 
+<p align='center'>
 # 🚀 Languages and Tools:
+</p>
 
 <a href="https://github.com/faishal2727">
 <img alt="faishalRZ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishal2727&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
+<p align='center'>
 ## 📊 My Github Statistics
+</p>
 
 <p align='center'>
 <a href="https://github.com/faishal2727">
