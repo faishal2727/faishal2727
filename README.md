@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Hai Selamat Datang - Faishal Rizal 👋
 
-# 🚀 Languages and Tools:
+# 🚀 Languages and Tools AND ## 📊 My Github Statistics
 
 <p align='center'>
 <a href="https://github.com/faishal2727">
@@ -35,16 +35,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-## 📊 My Github Statistics
-</p>
-
-<p align='center'>
 
 </p>
 
-<p align='center'>
+<h3 align='center'>
  Follow me on social media down bellow
-</p>
+</h3>
 
 <p align='center'>
   <a href="https://instagram.com/faishal2727">
