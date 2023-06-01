@@ -29,16 +29,17 @@ Here are some ideas to get you started:
 
 ## 📊 My Github Statistics
 
+<p align='center'>
 <a href="https://github.com/faishal2727">
 <img alt="FaishalRZ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
+</p>
 
 <p align='center'>
  Follow me on social media down bellow
 </p>
 
 <p align='center'>
- 
   <a href="https://instagram.com/faishal2727">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
