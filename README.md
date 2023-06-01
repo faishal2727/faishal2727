@@ -1,11 +1,12 @@
 ### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/faishal2727/faishal2727/blob/main/lottie.gif">, Hallo Gaes</h1>
+<h4 align="center">a student</h4>
 
 <!--
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/faishal2727/faishal2727/blob/main/lottie.gif">, Hallo Gaes</h1>
-<h4 align="center">a student</h4>
+
 
 Here are some ideas to get you started:
 
@@ -19,17 +20,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
 ## Hai Selamat Datang - Faishal Rizal 👋
-</p>
+
+
+# 🚀 Languages and Tools:
+
 
 <p align='center'>
-# 🚀 Languages and Tools:
-</p>
-
 <a href="https://github.com/faishal2727">
 <img alt="faishalRZ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishal2727&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+</p>
 
 <p align='center'>
 ## 📊 My Github Statistics
