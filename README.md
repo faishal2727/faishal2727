@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-<!--
+
 **faishal2727/faishal2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 
 <div align="center">
   <img  src="https://github.com/faishal2727/faishal2727/blob/main/lottie.gif"
@@ -25,9 +23,7 @@ Here are some ideas to get you started:
 
 ## Hai Selamat Datang - Faishal Rizal 👋
 
-
 # 🚀 Languages and Tools:
-
 
 <p align='center'>
 <a href="https://github.com/faishal2727">
