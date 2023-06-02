@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align=center>
-Hai Selamat Datang - Still Progress 👋
+Hai Selamat Datang - Still Progress 
 </h3>
 
-# 🚀 Languages and Tools AND 📊 My Github Statistics
-
+<h3 align='center'>
+ 🚀 Languages and Tools AND 📊 My Github Statistics
+ </h3>
+ 
 <p align='center'>
 <a href="https://github.com/faishal2727">
 <img alt="faishalRZ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishal2727&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
