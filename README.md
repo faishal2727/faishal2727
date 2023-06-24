@@ -40,11 +40,11 @@ Hai Selamat Datang - Still Progress
 
 <p align='center'>
 
-</p>
-
 <a href="https://github.com/faishal2727">
 <img alt="Faishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+
+</p>
 
 
 <h3 align='center'>
