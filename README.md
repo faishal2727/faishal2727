@@ -42,6 +42,11 @@ Hai Selamat Datang - Still Progress
 
 </p>
 
+<a href="https://github.com/faishal2727">
+<img alt="Faishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faishal2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+
 <h3 align='center'>
  Follow me on social media down bellow
 </h3>
